@@ -1,2 +1,2 @@
-# Bigkind-scraper
-Scraping data from http://www.kinds.or.kr/
+# Scraper-collection
+Scraping data from some sources
